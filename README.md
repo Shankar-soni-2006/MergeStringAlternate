@@ -20,7 +20,7 @@ If one string is longer, the remaining characters are appended at the end.
 
 ⚙️ How to Run
 1.Clone the Repository
- git clone https://github.com/your-username/mergeString.git
+ git clone https://Shankar-Soni-2006/mergeString.git
  cd mergeString
 
 2.Compile the Program
@@ -47,3 +47,4 @@ Command line / terminal
 📄 License
 
 This project is open-source and available under the MIT License
+
